@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bilersolutions.com/blog</id>
+    <title>Biler IT Solutions Blog</title>
+    <updated>2021-01-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bilersolutions.com/blog"/>
+    <subtitle>Biler IT Solutions Blog</subtitle>
+    <icon>https://bilersolutions.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What problem we are trying to solve?]]></title>
+        <id>welcome</id>
+        <link href="https://bilersolutions.com/blog/welcome"/>
+        <updated>2021-01-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Small and medium-sized enterprises (SMEs) are usually burdened by future needs when building their IT Infrastructure. For example most of the vendor requires you to commit into huge upfront cost or licensing when deploying even the most basic ERP (enterprise resource planning) solutions. In the other end of the spectrum are free and open-source solutions which offers very little to no support and SLA agreement which are very important in the business operations should any problems arise in production.]]></summary>
+    </entry>
+</feed>
